@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Vepkho Tchabukiani</h1>
 <h3 align="center">A ReactJs developer from Georgia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16762086-Programmer-character-animation&psig=AOvVaw2UTnrvDP8zgWih2MjnygeB&ust=1665572101841000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPil7d2B2PoCFQAAAAAdAAAAABAK" />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vepkho&label=Profile%20views&color=0e75b6&style=flat" alt="vepkho" /> </p>
 
 - 🔭 I’m currently working on **E-commerce Project**
